@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventListener</string>
+    <string name="text1">Manejo de Evento</string>
+    <string name="text2">Hello World!!!</string>
+    <string name="btn1">Small Font</string>
+    <string name="btn2">Large Font</string>
+</resources>
